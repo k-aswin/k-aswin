@@ -6,7 +6,7 @@
 
 
 [banner]: https://github.com/k-aswin/k-aswin/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png
-⚡ [Power BI]: https://powerbi.microsoft.com/en-us/
+⚡ [Power BI](https://powerbi.microsoft.com/en-us/)
 ⚡ [PowerApps]: https://powerapps.microsoft.com/en-in/
 ⚡ [Power Automate]: https://flow.microsoft.com/
 🐍 [Python]: https://www.python.org/
