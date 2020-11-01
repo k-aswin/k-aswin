@@ -1,6 +1,7 @@
 ![bg][banner]
 
-### Associate Consultant- Power BI at Limner Consulting LLP who likes to learn new things everyday
+### Hi, I am Aswin
+### I am a Power Platform Consultant, Data Analyst and ETL developer
 
 👔 [LinkedIn](https://www.linkedin.com/in/aswinkprabhakaran)
 
