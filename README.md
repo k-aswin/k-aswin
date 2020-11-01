@@ -22,3 +22,5 @@
 
 
 📖 learning 🔧[Go](https://golang.org/) 🔧[Data Warehousing]() 🔧[ML]() 🔧[DL]()...
+
+###### (Image credits: Canva.com)
