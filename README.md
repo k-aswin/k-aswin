@@ -5,7 +5,7 @@
 
 👔 [LinkedIn](https://www.linkedin.com/in/aswinkprabhakaran)
 
-[banner]: https://github.com/k-aswin/k-aswin/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png
+[banner]: https://github.com/k-aswin/k-aswin/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(1).png
 💚 loving
 ⚡ [Power BI](https://powerbi.microsoft.com/en-us/)
 ⚡ [Dataflows](https://powerbi.microsoft.com/en-us/)
