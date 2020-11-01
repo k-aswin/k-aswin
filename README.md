@@ -1,16 +1,17 @@
-### Hi there 👋
+[![bg][banner]][website]
 
-<!--
-**k-aswin/k-aswin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Associate Consultant- Power BI at Limner Consulting LLP who likes learning evereyday
 
-Here are some ideas to get you started:
+👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+⚡ [Power BI]: https://powerbi.microsoft.com/en-us/
+⚡ [PowerApps]: https://powerapps.microsoft.com/en-in/
+⚡ [Power Automate]: https://flow.microsoft.com/
+🐍 [Python]: https://www.python.org/
+⚡ [DAX]: https://docs.microsoft.com/en-us/dax/
+⚡ [PowerQuery]: https://powerquery.microsoft.com/en-us/
+⚡ [MS SQL]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+⚡ [Django]: https://www.djangoproject.com/
+[linkedin]: https://www.linkedin.com/in/aswinkprabhakaran
