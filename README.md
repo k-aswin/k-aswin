@@ -1,6 +1,6 @@
 ![bg][banner]
 
-### Associate Consultant- Power BI at Limner Consulting LLP who likes learning evereyday
+### Associate Consultant- Power BI at Limner Consulting LLP who likes to learn new things everyday
 
 👔 [LinkedIn](https://www.linkedin.com/in/aswinkprabhakaran)
 
@@ -20,4 +20,4 @@
 
 
 
-📖 learning 🔧[Data Warehousing]() 🔧[ML]() 🔧[DL]()...
+📖 learning 🔧[Go](https://golang.org/) 🔧[Data Warehousing]() 🔧[ML]() 🔧[DL]()...
